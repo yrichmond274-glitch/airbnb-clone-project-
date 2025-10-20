@@ -30,17 +30,47 @@ This project helps developers strengthen their understanding of **full-stack web
 | **Deployment (optional)** | AWS / Render / Heroku |
 
 ---
+---
 
-## 🚀 How to Run the Project
-```bash
-# Clone this repository
-git clone https://github.com/<your-username>/airbnb-clone-project.git
+ 👩‍💻 Team Roles
 
-# Navigate into the project directory
-cd airbnb-clone-project
+A successful software project like the AirBnB Clone Project relies on effective collaborationn between different roles.  
+Each team member contributes unique expertise to ensure the project is well-structured, functional, and user-friendly.  
+Below are the key roles and their responsibilities — inspired by standard software team structures and insights from the ITRexGroup blog.
 
-# (Optional) Create a virtual environment and install dependencies
-python -m venv venv
-source venv/bin/activate  # On Mac/Linux
-venv\Scripts\activate     # On Windows
-pip install -r requirements.txt
+🧠 1. Project Manager (PM)
+The Project Manager oversees the project’s progress, ensures deadlines are met, and coordinates communication among team members.  
+They are responsible for planning, tracking progress, and resolving any issues that may impact the project timeline.
+
+🧑‍💻 2. Backend Developer
+The Backend Developer builds and maintains the server-side logic of the application.  
+They design APIs, manage data processing, handle authentication, and ensure smooth communication between the database and the frontend.
+
+ 🎨 3. Frontend Developer
+The Frontend Develope focuses on the user interface and experience.  
+They implement the design using HTML, CSS, and JavaScript frameworks, ensuring the website is responsive, interactive, and accessible.
+
+🗃️ 4. Database Administrator (DBA)
+The Database Administrator manages the project’s data storage.  
+They design and maintain the database schema, ensure data integrity, handle backups, and optimize database performance for efficiency.
+
+🔒 5. DevOps Engineer
+The DevOps Engineer manages deployment pipelines and automation.  
+They ensure the project runs smoothly across different environments (development, staging, and production) and maintain version control and CI/CD (Continuous Integration/Continuous Deployment) workflows.
+
+ 6. Quality Assurance (QA) Engineer
+The QA Engineer tests the application for bugs, usability issues, and performance flaws.  
+They create test plans, perform manual and automated testing, and ensure that all features meet the required quality standards before release.
+
+ 🧩 7. UI/UX Designer
+The UI/UX Designer is responsible for the overall look and feel of the product.  
+They design layouts, choose color palettes, and create prototypes to ensure the interface is both functional and visually appealing.
+
+📚 8. Technical Writer
+The Technical Writer prepares clear and concise documentation for the project.  
+They create README files, user manuals, API documentation, and developer guides to ensure all technical details are easy to understand.
+
+---
+
+
+
